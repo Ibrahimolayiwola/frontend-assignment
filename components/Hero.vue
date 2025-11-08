@@ -3,7 +3,7 @@
     class="max-w-[340px] sm:max-w-[1243px] mx-auto h-auto py-[72px] px-[29px] rounded-md bg-gradient-to-b from-[#42389E] to-[#0F1026] text-blue-500"
   >
     <div
-      class="w-full flex justify-center items-center bg-[url('@/assets/images/pattern.png')] bg-no-repeat bg-cover"
+      class="w-full flex justify-center items-center bg-[url('/images/pattern.png')] bg-no-repeat bg-cover"
     >
       <div class="max-w-[650px] text-center">
         <h1
